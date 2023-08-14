@@ -1,6 +1,6 @@
 # Python3 Scripts
 
-## makee qrcode
+## make qrcode
 
 convert url to qrcode.
 
